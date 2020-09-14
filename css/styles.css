@@ -7,6 +7,6 @@ body{
   height: 6rem;
 }
 
-.w-100{
-  width: 50%;
+.topBar{
+  background-color: #070D24;
 }
