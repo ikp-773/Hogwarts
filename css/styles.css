@@ -1,20 +1,23 @@
-body{
-}
+body {}
 
 /* Navigation Bar */
-.logo{
+.logo {
   padding-left: 30%;
   height: 6rem;
 }
 
-.topBar{
+.topBar {
   background-color: #070D24;
 }
 
+@media (max-width:800px) {
+  #intro1 {
+    display: none;
+  }
+}
 
-
-@media (max-width:1135px) {
-  #intro{
+@media (min-width:800px) {
+  #intro2 {
     display: none;
   }
 }
