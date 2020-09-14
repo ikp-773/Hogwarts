@@ -10,3 +10,11 @@ body{
 .topBar{
   background-color: #070D24;
 }
+
+
+
+@media (max-width:1135px) {
+  #intro{
+    display: none;
+  }
+}
