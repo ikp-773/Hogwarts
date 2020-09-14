@@ -10,18 +10,22 @@ body {}
   background-color: #070D24;
 }
 
-.g{
-  background-image: url("images/gCR.jpg");
+#intro2{
+  background-image: url("images/hogwarts.jpg");
 }
 
+/* For Mobile */
 @media (max-width:800px) {
   #intro1 {
     display: none;
+
   }
 }
 
+/* For Larger Display */
 @media (min-width:800px) {
   #intro2 {
     display: none;
+
   }
 }
