@@ -3,5 +3,6 @@ body{
 
 /* Navigation Bar */
 .logo{
+  padding-left: 30%;
   height: 6rem;
 }
