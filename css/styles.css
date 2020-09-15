@@ -1,5 +1,10 @@
 body {}
 
+h5{
+  font-family: 'Gayathri', sans-serif;
+  margin-top: 5%;
+}
+
 /* Navigation Bar */
 .logo {
   padding-left: 30%;
@@ -59,6 +64,23 @@ body {}
 .banner {
   height: 40%;
   padding-bottom: 15px;
+}
+
+/* Houses */
+#house{
+  background-color: #000000;
+  text-align: center;
+}
+
+.symbol{
+  /* width: 10%; */
+  padding: 3%;
+}
+
+.br{
+  width: 80%;
+  margin: 5% auto 5%;
+
 }
 
 /* For Mobile */
