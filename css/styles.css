@@ -2,9 +2,21 @@ body {
   background-color: #000;
 }
 
-h5{
+h5 {
   font-family: 'Gayathri', sans-serif;
   margin-top: 5%;
+}
+
+h1 {
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 5rem;
+  color: #BB8F3B;
+}
+
+h2 {
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 3rem;
+  color: #BB8F3B;
 }
 
 /* Navigation Bar */
@@ -69,20 +81,35 @@ h5{
 }
 
 /* Houses */
-#house{
+#house {
   background-color: #000000;
   text-align: center;
 }
 
-.symbol{
+.symbol {
   /* width: 10%; */
   padding: 3%;
 }
 
-.br{
+.br {
   width: 80%;
   margin: 5% auto 5%;
+}
 
+/* Sorting */
+.sort {
+  padding: 5%;
+}
+
+.cap {
+  margin-top: 3%;
+  font-family: 'Crimson Text', serif;
+  font-size: 1.7rem;
+  color: #BB8F3B;
+}
+
+.houseSort{
+  text-align: right;
 }
 
 /* For Mobile */
