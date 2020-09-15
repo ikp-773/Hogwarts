@@ -109,12 +109,27 @@ h2 {
 }
 
 .houseSort{
-  text-align: right;
+  text-align: left;
 }
 
 /* For Mobile */
 @media (max-width:800px) {
   #intro1 {
+    display: none;
+  }
+  h1 {
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 3rem;
+    color: #BB8F3B;
+  }
+
+  h2 {
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 2rem;
+    color: #BB8F3B;
+  }
+
+  .wing{
     display: none;
   }
 }
