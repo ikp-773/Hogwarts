@@ -27,6 +27,18 @@ body {}
   color: #1FAB89;
 }
 
+.b {
+  color: white;
+}
+
+.bh {
+  font-size: 3rem;
+}
+
+.bs {
+  font-size: 1rem;
+}
+
 .titleC {
   font-size: 5rem;
   font-family: 'Bubblegum Sans', cursive;
@@ -35,6 +47,18 @@ body {}
 .subC {
   font-size: 2rem;
   font-family: 'Special Elite', cursive;
+}
+
+.school {
+  background-color: #070D24;
+  background-image: url("images/hogwartsBG.jpg");
+  padding: 5%;
+  height: 800px;
+}
+
+.banner {
+  height: 40%;
+  padding-bottom: 15px;
 }
 
 /* For Mobile */
