@@ -10,15 +10,16 @@ body {}
   background-color: #070D24;
 }
 
-#intro2{
-  background-image: url("images/hogwarts.jpg");
+/* Introduction */
+.title {
+  font-size: 2rem;
+  font-family: 'Special Elite', cursive;
 }
 
 /* For Mobile */
 @media (max-width:800px) {
   #intro1 {
     display: none;
-
   }
 }
 
@@ -26,6 +27,5 @@ body {}
 @media (min-width:800px) {
   #intro2 {
     display: none;
-
   }
 }
