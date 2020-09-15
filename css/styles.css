@@ -11,7 +11,24 @@ body {}
 }
 
 /* Introduction */
-.title {
+
+.g{
+  color: #B4250E;
+}
+.r{
+  color: #000;
+}
+.h{
+  color: #000;
+}
+.s{
+  color: #1FAB89;
+}
+.titleC {
+  font-size: 5rem;
+font-family: 'Bubblegum Sans', cursive;}
+
+.subC{
   font-size: 2rem;
   font-family: 'Special Elite', cursive;
 }
