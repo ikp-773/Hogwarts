@@ -18,11 +18,12 @@ h2 {
   font-size: 3rem;
   color: #BB8F3B;
 }
+
 hr {
   border: dotted #fff 0.575rem;
   border-bottom: none;
   width: 5%;
-  margin: 6.25rem auto;
+  margin: 3.25rem auto;
 }
 
 /* Navigation Bar */
@@ -115,10 +116,10 @@ hr {
   margin: 0;
   height: 30%;
 } */
-.sortImg{
+.sortImg {
   height: 20%;
-
 }
+
 .cap {
   margin-top: 3%;
   font-family: 'Crimson Text', serif;
@@ -136,14 +137,23 @@ hr {
 }
 
 /* About School */
-.aboutSchool{
+.aboutSchool {
   padding: 3%;
   background-image: url("../images/homeBG.jpg");
   font-family: 'Crimson Text', serif;
 }
 
-.info{
+.info {
   color: #C0C0C0;
+  font-size: 3rem;
+  font-family: 'Bubblegum Sans', cursive;
+}
+
+.infoS {
+  color: #C0C0C0;
+  padding: 2%;
+  font-size: 1.7rem;
+  word-spacing: .5rem;
 }
 
 /* For Mobile */
@@ -153,23 +163,17 @@ hr {
   }
 
   h1 {
-    font-family: 'Bubblegum Sans', cursive;
     font-size: 3rem;
-    color: #BB8F3B;
   }
 
   h2 {
-    font-family: 'Bubblegum Sans', cursive;
     font-size: 2rem;
-    color: #BB8F3B;
   }
 
   .wing {
     display: none;
   }
 }
-
-
 
 /* For Larger Display */
 @media (min-width:800px) {
