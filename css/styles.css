@@ -27,14 +27,27 @@ hr {
 }
 
 /* Navigation Bar */
+
+.n{
+  color: #BB8F3B;
+  padding-left: 5%;
+}
+.n:hover{
+  color: #B4250E;
+}
 .logo {
   padding-left: 30%;
   height: 6rem;
 }
-
+.lop{
+  padding-right: 5%;
+}
 .topBar {
   background-color: #070D24;
+  color: #BB8F3B;
 }
+
+
 
 /* Introduction */
 .g {
@@ -186,8 +199,41 @@ hr {
 }
 
 /* Footer */
-#footer{
-  padding: 5%
+#footer {
+  padding: 2% 15%;
+  text-align: center;
+  background-color: #000;
+}
+
+.bottom-icon {
+  font-size: 3rem;
+  color: #BB8F3B;
+  margin: 10px;
+}
+
+.bottom-icon:hover {
+  color: #B4250E;
+  text-decoration: none;
+}
+
+.backtop{
+  border-radius: 25px ;
+  height: 50px ;
+  width: 50px ;
+}
+@media (min-width:771px) {
+  .cr {
+    align-content: space-between;
+  }
+
+  .spaceIcons {
+    align-items: center;
+    padding-left: 30%;
+    padding-top: 2%;
+  }
+.footerImg{
+  padding-right: 50%;
+}
 }
 
 /* Buttons */
