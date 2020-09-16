@@ -105,6 +105,7 @@ hr {
 
 /* Sorting */
 .sort {
+  text-align: right;
   background-image: url("../images/download.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -122,9 +123,7 @@ hr {
   color: #BB8F3B;
 }
 
-.houseSort {
-  text-align: left;
-}
+
 
 .imgBottom {
   height: 20%;
@@ -162,16 +161,31 @@ hr {
 
 /* Community */
 .communityW{
-  padding: 10%;
-  background-image: url("../images/connect.jpg");
+  padding: 15% 5% 8%;
+  text-align: right;
+  background-image: url("../images/communityBG6.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .connectH{
-  color: crimson;
-  font-size: 3rem;
+  color: #D0D4D3;
+  font-size: 4rem;
   font-family: 'Bubblegum Sans', cursive;
+}
+
+.connectS{
+  color: #D0D4D3;
+  padding: 2%;
+  font-family: 'Crimson Text', serif;
+
+  font-size: 1.7rem;
+  word-spacing: .5rem;
+}
+
+.key{
+  text-align: center;
+  height: 50%
 }
 /* For Mobile */
 @media (max-width:800px) {
