@@ -101,10 +101,18 @@ h2 {
   background-image: url("../images/download.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 5% 5% 0;
-  /* height: 600px; */
+  padding: 5%;
 }
 
+/* .wing{
+  padding: 3%;
+  margin: 0;
+  height: 30%;
+} */
+.sortImg{
+  height: 20%;
+
+}
 .cap {
   margin-top: 3%;
   font-family: 'Crimson Text', serif;
@@ -120,6 +128,15 @@ h2 {
   height: 20%;
   text-align: right;
 }
+
+/* About School */
+.aboutSchool{
+  background-image: url("../images/homeBG.jpg");
+  font-family: 'Crimson Text', serif;
+  font-size: 1.7rem;
+  color: #BB8F3B;
+}
+
 
 /* For Mobile */
 @media (max-width:800px) {
@@ -143,6 +160,8 @@ h2 {
     display: none;
   }
 }
+
+
 
 /* For Larger Display */
 @media (min-width:800px) {
