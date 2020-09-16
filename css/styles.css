@@ -97,8 +97,13 @@ h2 {
 }
 
 /* Sorting */
+
+
+
 .sort {
   padding: 5%;
+  height: 700px;
+
 }
 
 .cap {
