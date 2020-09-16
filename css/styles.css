@@ -135,6 +135,9 @@ h2 {
   font-family: 'Crimson Text', serif;
 }
 
+.info{
+  color: #C0C0C0;
+}
 
 /* For Mobile */
 @media (max-width:800px) {
