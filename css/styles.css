@@ -18,6 +18,12 @@ h2 {
   font-size: 3rem;
   color: #BB8F3B;
 }
+hr {
+  border: dotted #fff 0.575rem;
+  border-bottom: none;
+  width: 5%;
+  margin: 6.25rem auto;
+}
 
 /* Navigation Bar */
 .logo {
