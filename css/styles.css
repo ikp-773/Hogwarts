@@ -116,6 +116,11 @@ h2 {
   text-align: left;
 }
 
+.imgBottom{
+  height: 20%;
+  text-align: right;
+}
+
 /* For Mobile */
 @media (max-width:800px) {
   #intro1 {
@@ -144,6 +149,11 @@ h2 {
   #intro2 {
     display: none;
   }
+
+.imgBottom{
+  display: none;
+}
+
 }
 
 /* Sorting Button */
