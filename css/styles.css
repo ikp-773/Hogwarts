@@ -111,11 +111,6 @@ hr {
   padding: 5%;
 }
 
-/* .wing{
-  padding: 3%;
-  margin: 0;
-  height: 30%;
-} */
 .sortImg {
   height: 20%;
 }
@@ -155,7 +150,15 @@ hr {
   font-size: 1.7rem;
   word-spacing: .5rem;
 }
+.hog{
+  color: #BB8F3B;
+  font-size: 1.3rem;
+}
 
+.hog:hover{
+  color:grey ;
+  text-decoration: none;
+}
 /* For Mobile */
 @media (max-width:800px) {
   #intro1 {
