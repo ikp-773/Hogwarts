@@ -159,6 +159,20 @@ hr {
   color:grey ;
   text-decoration: none;
 }
+
+/* Community */
+.communityW{
+  padding: 10%;
+  background-image: url("../images/connect.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.connectH{
+  color: crimson;
+  font-size: 3rem;
+  font-family: 'Bubblegum Sans', cursive;
+}
 /* For Mobile */
 @media (max-width:800px) {
   #intro1 {
