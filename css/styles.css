@@ -101,7 +101,7 @@ h2 {
   background-image: url("../images/download.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 5%;
+  padding: 5% 5% 0;
   /* height: 600px; */
 }
 
@@ -116,7 +116,7 @@ h2 {
   text-align: left;
 }
 
-.imgBottom{
+.imgBottom {
   height: 20%;
   text-align: right;
 }
@@ -150,10 +150,9 @@ h2 {
     display: none;
   }
 
-.imgBottom{
-  display: none;
-}
-
+  .imgBottom {
+    display: none;
+  }
 }
 
 /* Sorting Button */
@@ -172,7 +171,6 @@ h2 {
   font-style: italic;
   padding: 16px 31px;
   text-decoration: none;
-
 }
 
 .myButton:hover {
