@@ -1,5 +1,5 @@
 body {
-  background-color: #000;
+  background-color: grey;
 }
 
 h5 {
@@ -205,9 +205,9 @@ hr {
 
 /* Footer */
 #footer {
-  padding: 2% 15%;
+  padding: 0 5%;
   text-align: center;
-  background-color: #000;
+  background-color: #070D24;
 }
 
 .bottom-icon {
@@ -221,11 +221,6 @@ hr {
   text-decoration: none;
 }
 
-.backtop{
-  border-radius: 25px ;
-  height: 50px ;
-  width: 50px ;
-}
 @media (min-width:771px) {
   .cr {
     align-content: space-between;
@@ -297,27 +292,7 @@ hr {
 	position:relative;
 	top:1px;
 }
-.cd-top {
-  display: inline-block;
-  height: 40px;
-  width: 40px;
-  position: fixed;
-  bottom: 40px;
-  right: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
-  /* image replacement properties */
-  overflow: hidden;
-  text-indent: 100%;
-  white-space: nowrap;
-  background: rgba(0, 0, 0, 0.55) url(../images/cd-top-arrow.svg) no-repeat center 50%;
-  background-size: 70%;
-  border: 1px solid #fff;
-  visibility: hidden;
-  opacity: 0;
-  -webkit-transition: opacity .3s 0s, visibility 0s .3s;
-  -moz-transition: opacity .3s 0s, visibility 0s .3s;
-  transition: opacity .3s 0s, visibility 0s .3s;
-}
+
 /* For Mobile */
 @media (max-width:800px) {
   #intro1 {
