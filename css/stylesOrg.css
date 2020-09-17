@@ -325,6 +325,12 @@ hr {
   .wing {
     display: none;
   }
+
+  .sort{
+    padding-top: 5%;
+    padding-bottom: 5%; 
+
+  }
 }
 
 /* For Larger Display */
