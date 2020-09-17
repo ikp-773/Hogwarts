@@ -6,7 +6,9 @@ h5 {
   font-family: 'Gayathri', sans-serif;
   margin-top: 5%;
 }
-
+h5:hover{
+  color: #BB8F3B;
+}
 h1 {
   font-family: 'Bubblegum Sans', cursive;
   font-size: 5rem;
@@ -111,6 +113,9 @@ hr {
   padding: 3%;
 }
 
+.symbol:hover{
+  color: #BB8F3B;
+}
 .br {
   width: 80%;
   margin: 5% auto 5%;
