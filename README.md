@@ -1,3 +1,9 @@
-# Programacion
+# Hogwarts Website
 
-Created this website as part of Programacion .
+This is a fanmade website for Hall togwarts School of witchcraft and wizardary.
+
+MOst of the functions redirects
+
+Created orginally as part of Programacion.
+
+
