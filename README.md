@@ -2,7 +2,7 @@
 
 This is a fanmade website for Hall togwarts School of witchcraft and wizardary.
 
-MOst of the functions redirects
+Most of the functions redirects to the orginal wizardingworld.com page.
 
 Created orginally as part of Programacion.
 
